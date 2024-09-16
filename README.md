@@ -2,6 +2,7 @@
 
 ## Concatenação de dados <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fountain%20Pen.png" alt="Fountain Pen" width="25" height="25" />
 Receber dois dados diferentes do usuário e colocar-los em uma única string
+[Concatenação de dados](concatenaçãodados.py)
 
 ## Repetindo textos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="25" height="25" />
 Solicitar uma string e um número inteiro como entrada. Retornando a string repetida o número de vezes solicitado pelo usuário
